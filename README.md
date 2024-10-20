@@ -108,12 +108,12 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/cucumber-pickle/BlumCum.git
+   git clone https://github.com/Mexicanbr/blum.git
    ```
 
 3. Enter the BlumCum folder
    ```
-   cd BlumCum
+   cd Blum-MexicanBr Script
    ```
 
 4. Install the required modules/libraries.
